@@ -1,0 +1,42 @@
+body{
+    background: url(imagenes/fondo.png);
+}
+
+
+form{
+    text-align: center;
+}
+
+footer p{
+    padding-top: 7%;
+    padding-right: 600px;
+    font-family: initial;
+    color: black;
+}
+
+button {
+    width: 330px;
+    height: 300px;
+    margin-left: 120px; 
+    margin-top: 60px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: greenyellow;
+}
+
+button img{
+    width: 200px;
+    height: 250px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
